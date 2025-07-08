@@ -1,0 +1,13 @@
+{
+  "name": "gemini-proxy-vercel",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/summarize.js",
+  "description": "Vercel serverless function for Gemini API summarization",
+  "keywords": ["gemini", "proxy", "summarizer", "vercel", "api"],
+  "author": "Abdur Rehman Malik",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
